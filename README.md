@@ -1,13 +1,22 @@
-# Sample Hardhat Project
+# 📊 MySusu Pitch Deck
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Welcome to the official pitch deck for *MySusu* – a digital platform revolutionizing traditional group savings and credit systems.
 
-Try running some of the following tasks:
+## 📎 Presentation Link
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+Click below to view the full presentation:
+
+👉 [MySusu Pitch Deck (Google Slides)](https://docs.google.com/presentation/d/1fP5VU4SBb6XESDemRW18PLC13guzfKubCwbYG2lVF_o/edit?usp=sharing)
+
+## 📌 Overview
+
+This presentation covers:
+- The problem MySusu aims to solve
+- Our digital solution for community-based savings
+- Market opportunity and user benefits
+- Revenue model and growth strategy
+- Team, traction, and roadmap
+
+---
+
+Whether you're an investor, partner, or enthusiast, we appreciate your time and interest in our vision to empower financial inclusion through innovation.
